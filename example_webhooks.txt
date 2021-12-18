@@ -1,0 +1,4 @@
+https://discord.com/api/webhooks/0000000000000000/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://discord.com/api/webhooks/1234/abcdeeeeeeeeeeeeeeeee
+https://discord.com/api/webhooks/xxx/yyyeeeeeezazaza
+https://discord.com/api/webhooks/XXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXX
