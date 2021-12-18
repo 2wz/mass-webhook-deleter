@@ -1,5 +1,5 @@
 
-# ODiscord DMWD
+# mass-webhook-deleter
 Discord mass webhook deleter.
 
 ## Installation
@@ -9,9 +9,6 @@ NPM Packages:
 
 ## Usage
 
-    node index.js <input>
+    node index.js example_webhooks.txt
 
- - input - The file path of where the list of where your Discord webhook urls is.
 
-## License
-MIT © I2rys
